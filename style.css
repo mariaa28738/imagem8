@@ -110,3 +110,36 @@ footer {
     margin-left: auto; /* Define a margem esquerda automática */
     margin-right: auto; /* Define a margem direita automática */
 }
+.cart-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.cart-button {
+    background-color: #ff5733; /* Change this to your desired color */
+    border: none;
+    color: rgb(226, 31, 31); /* Text color */
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.cart-button:hover {
+    background-color: #e04e2b; /* Darker shade for hover effect */
+}
+.cart-button {
+    background-color: #a70000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
